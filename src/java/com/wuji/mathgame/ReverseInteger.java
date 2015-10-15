@@ -1,4 +1,4 @@
-package com.wuji;
+package com.wuji.mathgame;
 
 /**
  * Reverse digits of an integer.

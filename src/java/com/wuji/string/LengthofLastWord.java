@@ -1,4 +1,4 @@
-package com.wuji;
+package com.wuji.string;
 
 /**
  * Created by yangzhou on 15-8-19.
