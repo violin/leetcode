@@ -1,8 +1,6 @@
-package com.wuji;
+package com.wuji.array;
 
-import java.util.Arrays;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 /**

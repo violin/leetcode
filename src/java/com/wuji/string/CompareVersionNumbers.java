@@ -1,4 +1,4 @@
-package com.wuji;
+package com.wuji.string;
 
 /**
  * https://leetcode.com/problems/palindrome-number/
