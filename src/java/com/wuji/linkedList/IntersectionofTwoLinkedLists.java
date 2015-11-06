@@ -1,5 +1,7 @@
 package com.wuji.linkedList;
 
+import com.wuji.common.ListNode;
+
 /**
  * Write a program to find the node at which the intersection of two singly linked lists begins.
  * <p/>
@@ -25,15 +27,6 @@ package com.wuji.linkedList;
  * Created by yangzhou on 15-8-20.
  */
 public class IntersectionofTwoLinkedLists {
-
-    public class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
-    }
 
     /**
      * 常规解法

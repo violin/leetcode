@@ -1,5 +1,7 @@
 package com.wuji;
 
+import com.wuji.common.ListNode;
+
 /**
  * Given a singly linked list, determine if it is a palindrome.
 
@@ -10,14 +12,6 @@ package com.wuji;
  * Created by yangzhou on 15-8-25.
  */
 public class u_PalindromeLinkedList {
-    public class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
     public boolean isPalindrome(ListNode head) {
         if(head == null) {
             return true;
